@@ -1,0 +1,264 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Brandon Crowther",
+        "label": "Software Developer at VeroSource Solutions",
+        "image": "https://media.licdn.com/dms/image/C4E03AQG3lNADW-6hDA/profile-displayphoto-shrink_800_800/0/1610636451880?e=1709164800&v=beta&t=eENbhpmTGDzRLOE-BcYGWhzVs-3tasvbpDoKKbfpnSM",
+        "email": "bcrowthe11@gmail.com",
+        "phone": "1 (506) 238-3144",
+        "url": "https://github.com/BrandonCrowther",
+        "summary": "",
+        "location": {
+            "address": "270 Willett Street",
+            "postalCode": "B3M 3L9",
+            "city": "Halifax",
+            "countryCode": "CA",
+            "region": "Nova Scotia"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "brandon-crowther-09b012106",
+                "url": "https://www.linkedin.com/in/brandon-crowther-09b012106/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "VeroSource Solutions",
+            "position": "Senior Software Developer",
+            "startDate": "2021-01-31",
+            "endDate": "",
+            "highlights": [],
+            "url": "https://www.linkedin.com/company/verosource-solutions/",
+            "location": "Fredericton, New Brunswick, Canada"
+        },
+        {
+            "name": "The Learning Bar",
+            "position": "Intermediate Developer",
+            "startDate": "2018-06-30",
+            "endDate": "2021-01-31",
+            "highlights": [],
+            "url": "https://www.linkedin.com/company/the-learning-bar/",
+            "location": "New Brunswick, Canada"
+        },
+        {
+            "name": "The Learning Bar",
+            "position": "Junior Software Developer",
+            "startDate": "2017-05-31",
+            "endDate": "2017-09-30",
+            "highlights": [],
+            "url": "https://www.linkedin.com/company/the-learning-bar/",
+            "location": "New Brunswick, Canada"
+        },
+        {
+            "name": "Introhive",
+            "position": "Software Developer (Coop)",
+            "startDate": "2016-01-31",
+            "endDate": "2016-08-31",
+            "highlights": [],
+            "url": "https://www.linkedin.com/company/introhive/",
+            "location": "New Brunswick, Canada"
+        },
+        {
+            "name": "University of New Brunswick",
+            "position": "Computer Science Student Union Representative",
+            "startDate": "2015-09-30",
+            "endDate": "2016-05-31",
+            "highlights": [],
+            "url": "https://www.linkedin.com/school/university-of-new-brunswick/"
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "University of New Brunswick",
+            "position": "Peer Mentor",
+            "startDate": "2015-09-30",
+            "endDate": "2015-12-31",
+            "summary": "- Participated in UNB Faculty of Computer Science Orientation.\n- Acted as a role model / leader / mentor to First Year students in the Faculty.",
+            "highlights": [],
+            "url": "https://www.linkedin.com/company/8244"
+        },
+        {
+            "organization": "Parks Canada",
+            "position": "Learn to Camp Coordinator",
+            "startDate": "2015-08-31",
+            "endDate": "2015-08-31",
+            "summary": "Taught refugees new to Canada how to go camping and experience Canada's outdoors.",
+            "highlights": [],
+            "url": "https://www.linkedin.com/company/1582"
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of New Brunswick",
+            "area": "Computer Science",
+            "studyType": "Bachelor's degree",
+            "startDate": "2013-12-31",
+            "endDate": "2018-12-31",
+            "score": "",
+            "courses": []
+        }
+    ],
+    "awards": [
+        {
+            "title": "NSERC Undergraduate Research Award Recipient",
+            "date": "2017-05-31",
+            "awarder": "Natural Science and Engineering Research Council of Canada",
+            "summary": ""
+        },
+        {
+            "title": "NSERC Undergraduate Research Award Recipient",
+            "date": "2016-01-31",
+            "awarder": "Natural Science and Engineering Research Council of Canada",
+            "summary": ""
+        }
+    ],
+    "certificates": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Software Infrastructure",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "System Architecture",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Technical Specs",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Programming Concepts",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "HTML5",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Goats",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Node.js",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Community Outreach",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Object-Oriented Programming (OOP)",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Git",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Java",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "PHP",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "JavaScript",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Amazon Web Services (AWS)",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Ruby",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Software Development",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Docker Products",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "PHP Applications",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "GitHub",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Project Estimation",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Microservices",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "SQL",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "TensorFlow",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Student Council",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "React.js",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Problem Solving",
+            "level": "",
+            "keywords": []
+        }
+    ],
+    "languages": [
+        {
+            "fluency": "Native Speaker",
+            "language": "English"
+        }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [],
+    "meta": {
+        "version": "v1.0.0",
+        "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    }
+}
