@@ -7,7 +7,7 @@
         "email": "bcrowthe11@gmail.com",
         "phone": "1 (506) 238-3144",
         "url": "https://github.com/BrandonCrowther",
-        "summary": "Software Developer with 6 years of experience working in the domain of Web Development since completing my Bachelors of Computer Science in 2018. Most of the work I have done has been as a full stack developer, cycling between doing project planning, front end development, infrastructure, maintenance, and deployments all in a regular day. I am currently looking for work that is challenging, interesting intellectually, and provides real value for people in the world.",
+        "summary": "Software Developer with 6 years of experience working in the domain of Web Development since completing my Bachelors of Computer Science in 2018. Most of the work I have done has been as a full stack developer and technical lead, but also have a lot of experience building infrastructure on AWS. I am currently looking for work that is challenging, interesting intellectually, and provides real value for people in the world.",
         "location": {
             "address": "270 Willett Street",
             "postalCode": "B3M 3L9",
@@ -103,7 +103,7 @@
             "position": "Peer Mentor",
             "startDate": "2015-09-30",
             "endDate": "2015-12-31",
-            "summary": null,
+            "summary": "Functioned as a mentor for first year computer science students as they learned to navigate life at the university.",
             "highlights": [],
             "url": "https://www.linkedin.com/company/8244"
         },
@@ -121,7 +121,7 @@
             "position": "Student Union Representative - Computer Science ",
             "startDate": "2015-09-30",
             "endDate": "2015-12-31",
-            "summary": null,
+            "summary": "Responsible for advocating on behalf of the Faculty of Computer Science on UNB's Student Union.",
             "highlights": [],
             "url": "https://www.linkedin.com/company/8244"
         }
