@@ -155,174 +155,27 @@
     "publications": [],
     "skills": [
         {
-            "name": "Ruby on Rails",
-            "level": "",
-            "keywords": []
+            "name": "Frontend",
+            "level": "Senior",
+            "keywords": ["JavaScript", "React"]
         },
+        
         {
-            "name": "Yii",
-            "level": "",
-            "keywords": []
+            "name": "Backend",
+            "level": "Intermediate",
+            "keywords": ["Microservices", "Drupal", "PHP", "Ruby", "Node.js", "Java", "Spring Boot"]
         },
+        
         {
-            "name": "Terraform",
-            "level": "",
-            "keywords": []
+            "name": "DevOps / Infrastructure",
+            "level": "Senior",
+            "keywords": ["Terraform", "System Architecture", "Continuous Integration", "Amazon Web Services", "Docker"]
         },
+        
         {
-            "name": "Drupal",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Introhive",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Programming Concepts",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Community Outreach",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Git",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Continuous Integration (CI)",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "PHP",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Amazon Web Services (AWS)",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Ruby",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Software Infrastructure",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Software Development",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Docker Products",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "React Native",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "GitHub",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "SQL",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "TensorFlow",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "HTML5",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Goats",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Node.js",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Object-Oriented Programming (OOP)",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Java",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "System Architecture",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "JavaScript",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Technical Specs",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "PHP Applications",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Project Estimation",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Front-End Development",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Microservices",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Student Council",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "React.js",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Problem Solving",
-            "level": "",
-            "keywords": []
+            "name": "Mobile",
+            "level": "Intermediate",
+            "keywords": ["React Native", "Android", "Swift"]
         }
     ],
     "languages": [
@@ -331,7 +184,47 @@
             "language": "English"
         }
     ],
-    "interests": [],
+    "interests": [
+        {
+            "name": "Bouldering",
+            "keywords": []
+        },
+        
+        {
+            "name": "Sport Climbing",
+            "keywords": []
+        },
+        {
+            "name": "Hiking",
+            "keywords": []
+        },
+        {
+            "name": "Running",
+            "keywords": []
+        },
+        {
+            "name": "Skiing",
+            "keywords": []
+        },
+        {
+            "name": "Philosophy",
+            "keywords": []
+        },
+        {
+            "name": "Video Games",
+            "keywords": []
+        },
+        {
+            "name": "Travel",
+            "keywords": []
+        },
+        {
+            "name": "Cooking",
+            "keywords": []
+        }
+        
+        
+    ],
     "references": [],
     "projects": [],
     "meta": {
