@@ -1,0 +1,25 @@
+{
+  "name": "jsonresume",
+  "version": "1.0.0",
+  "description": "Source code for my resume. Nothing particularly worth seeing here. Uses JSONResume and the Kendall theme to do all the heavy lifting.",
+  "main": "none",
+  "scripts": {
+    "dev": "nodemon resume.json --exec 'npm run build'",
+    "build": "resume export resume.html --theme ./node_modules/jsonresume-theme-kendall"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonCrowther/resume.git"
+  },
+  "author": "Brandon Crowther",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonCrowther/resume/issues"
+  },
+  "homepage": "https://github.com/BrandonCrowther/resume#readme",
+  "dependencies": {
+    "jsonresume-theme-kendall": "^0.2.0",
+    "nodemon": "^3.0.2",
+    "resume-cli": "^3.0.8"
+  }
+}
